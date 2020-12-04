@@ -1,12 +1,14 @@
 # TodoLaravel6API
-This is todoApp project made with Laravel 6, JWT for authntication and mongoDB as database server
+This is todoApp project made with Laravel 6, JWT for user authentication and mongoDB as database server
 
 # Start the project
 
 npm install <br>
 php artisan serve <br><br>
 
-The project will start on port 8000
+The project will start on port 8000<br>
+
+Have Fun !!
 
 
 
