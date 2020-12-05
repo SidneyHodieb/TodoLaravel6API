@@ -13,7 +13,7 @@ db name = aostodo<br>
 
 Apllicarion will start on port 8000
 
-##API ROUTES
+## API ROUTES
 
 
 api/login : Route::post("login", "AuthController@login") :  To connect a user; <br>
